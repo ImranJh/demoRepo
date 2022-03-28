@@ -8,5 +8,10 @@ public class contactTest {
 	{
 		System.out.println("Contact created successfully ");
 	}
+	@Test
+	public void Contact2()
+	{
+		System.out.println("Contact created successfully 2");
+	}
 
 }
